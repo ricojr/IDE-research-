@@ -1,5 +1,5 @@
 # IDE Research
-![Visual Code Logo](https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg){:class="img-responsive"}
+![Visual Code Logo](https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg)
       
       
 ### download link of the IDE
