@@ -1,8 +1,9 @@
 # IDE Research
-
+![Visual Code Logo](https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg)
       
-      download link of the IDE
-https://code.visualstudio.com/download">download link
+      
+### download link of the IDE
+[Download link](https://code.visualstudio.com/download) 
    
 ## Pro's & Con's
    
@@ -23,9 +24,12 @@ https://code.visualstudio.com/download">download link
    3. Generalized
         
 > Quote of the day:We did it! &#128540;
-      <pre><code> ipsum, dolor sit amet consectetur adipisicing elit. &lt;p&gt&lt;/p&gt Alias, veniam.</code></pre>
-
- ### ask list
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+### task list
    - [ ] task 1
    - [x] task 2
    - [ ] task 3
