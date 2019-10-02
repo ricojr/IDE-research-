@@ -30,9 +30,10 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 ### task list
-   - [ ] task 1
-   - [x] task 2
-   - [ ] task 3
+  - [x] task 1
+  - [x] task 1
+  - [x] task 2
+     
    
    
    Made with love
